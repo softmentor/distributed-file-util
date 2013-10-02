@@ -19,6 +19,7 @@
 	<modules>
 		<module>dfs-core</module>
 		<module>dfs-s3</module>
+		<module>dfs-scheduler</module>
 
 	</modules>
 
